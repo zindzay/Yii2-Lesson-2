@@ -5,5 +5,5 @@
 
 - git clone https://github.com/zindzay/Yii2-Lesson-2.git app_catalog
 - cd app_catalog
-- composer.phar install
+- composer install
 - php -S localhost:8000 -t web/
